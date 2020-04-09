@@ -1,4 +1,4 @@
-class rikwatson < Formula
+class Rikwatson < Formula
   desc "Add Description"
   homepage "https://github.com/rikwatson/hello"
   url "https://s3.eu-west-2.amazonaws.com/homebrew.rikwatson.com/build/0.0.1/rikwatson_0.0.1_darwin_amd64.zip"
