@@ -9,3 +9,12 @@ Install this tap via: `brew tap rikwatson/homebrew-repo`. Then individual formul
 ## Formulae
 
 Currenly none, this will change.
+
+
+## Some notes on taps
+
+Remember this is a `tap`, not a `cask`.
+
+`brew tap rikwatson/repo`, clones this repository to `/usr/local/Homebrew/Library/Taps/rikwatson/homebrew-repo`. (Remember the repository *must* be `rikwatson/homebrew-repo`).
+
+Remove via `brew untap rikwatson/repo`
